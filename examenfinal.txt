@@ -1,0 +1,21 @@
+Evaluación Final
+Introducción a la Carrera
+
+
+Rodrigo Márquez A01022943
+Marcela de la Rosa A01022683
+
+
+Caso 1
+En el inciso 3 del código de ética, Product, se establece que los ingenieros de software deben asegurarse de que sus productos y modificaciones cumplen con los mayores estándares profesionales. Una situación en la que nuestro proyecto de “Fundamentos de Programación” se ve comprometido rompiendo este punto del código de ética, es al ser un proyecto estudiantil no hicimos de nuestro proyecto un producto como tal y no tenemos muchas bases para lograr un producto de alta calidad con el proyecto, aunque podríamos lograrlo en algún futuro. 
+
+
+Caso 2
+Otro punto del código de ética que nuestro proyecto de Fundamentos de Programación podría arriesgar sería el punto 4, Judgment, ya que al ser alumnos buscamos en todo momento una referencia o apoyo externo para lograr que nuestro código funcione como esperamos. Siendo un proyecto un poco complicado para principiantes, es difícil realizarlo sin apoyo y/o sin opiniones externas que nos ayuden a aprender y entender lo que estamos haciendo.
+
+
+Reflexión
+Rodrigo: En mi opinión, el punto 4 del código de ética está un poco más enfocado a los ingenieros profesionales, ya que habla mucho sobre la ley y la profesionalidad en cuanto al producto y al trabajo realizado, aunque al entender las bases desde que somos estudiantes nos ayudará mucho en un futuro para no arriesgar nuestra carrera. En nuestro caso, el buscar apoyo externo, aunque no sea profesional es en mi opinión una manera de aprendizaje y entendimiento.
+
+
+Marcela: Pienso que no satisfacer el inciso 3 en su totalidad, es una situación muy complicada ya que a la hora de brindar un producto, si no cumple con los estándares profesionales puede comprometer nuestra reputación como ingenieros en un futuro, al hacer productos de mala calidad o muy poco eficiente y  la gente y/o empresas no les convendría utilizar nuestro producto, por lo mismo. Es importante poder lograr entregar productos eficientes desde este punto de nuestras carreras, para acostumbrarnos a siempre hacerlo.
